@@ -14,10 +14,6 @@ export default {
       "8xl": ["96px", "106px"],
     },
     extend: {
-      animation: {
-        wiggle: "wiggle 1s ease-in-out infinite",
-      },
-
       fontFamily: {
         palanquin: ["Palanquin", "sans-serif"],
         montserrat: ["Montserrat", "sans-serif"],
